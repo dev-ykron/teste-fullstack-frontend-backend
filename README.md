@@ -1,6 +1,6 @@
 # Teste fullstack, frontend e backend
 
-A ideia do projeto desse projeto é conhecer melhor seus conhecimentos técnicos
+A ideia desse projeto é conhecer melhor seus conhecimentos técnicos
 
 Escolha a missão de acordo com a vaga que está buscando:
 - Frontend
