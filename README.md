@@ -93,7 +93,7 @@ Desenvolver uma **UI (User Interface)** de acordo com o desenho que está na pas
     - Busca
     - Formulário de novo/edição de veículos
 
-Utilizar React é um diferencial(Bônus :star:)
+Utilizar **React** é um diferencial(Bônus :star:)
 
 ### Dica
 
@@ -116,6 +116,6 @@ Entre os critérios de avaliação estão:
 
 Se tiver qualquer dúvida sobre esse teste, envie um email com o título `[Teste <tipo-vaga> <seu-nome>] O assunto que vc deseja` para ana@ykron.com
 
-##Créditos
+## Créditos
 
 Esse desafio foi construido com base no desafio da [TExTecnologia](https://github.com/TExTecnologia/teste-fullstack) e da [Contabilizei](https://github.com/contabilizei/fullstack-java-teste).
