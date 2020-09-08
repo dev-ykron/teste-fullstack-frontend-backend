@@ -7,7 +7,7 @@ Escolha a missão de acordo com a vaga que está buscando:
 - Backend
 - Fullstack (Frontend + Backend)
 
-Leia primeiro todo o projeto, faça sua estimativa de horas para o desenvolvimento e envie um email com o título `[Teste <tipo-vaga> <seu-nome>] Estimativa` para ana@ykron.com
+Leia primeiro todo o projeto, faça sua estimativa de horas para o desenvolvimento e envie um email com o título `[Teste <tipo-vaga> <seu-nome>] Estimativa` (tempo corrido e tempo de desenvolvimento) para ana@ykron.com
 
 Quando finalizar o teste, publique tudo no seu [Github](https://github.com) e envie um email com o título `[Teste <tipo-vaga> <seu-nome>] Finalizado` para ana@ykron.com
 
