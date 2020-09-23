@@ -33,7 +33,7 @@ created:   datetime
 updated:   datetime
 ```
 
-Utilize um banco NoSQL ou SQL para armazenar os dados que a **API** irá consumir.
+Utilize os dados do arquivo fixtures/data.json para popular um banco NoSQL ou SQL. Estes serão os dados que a **API** irá consumir.
 
 ### API endpoints
 
